@@ -1,8 +1,8 @@
-### 🧑‍💻 Damian — Senior React Developer
+### 🧑‍💻 Damian — Software Developer
 
 Hi there 👋 I'm **Damian**, a highly experienced front-end engineer specializing in **React**, **Next.js**, and modern **TypeScript-first architectures**. With over 6 years of commercial experience, I’ve led projects across industries — from real estate 3D visualization, through food delivery platforms, to AI-enhanced blockchain platforms.
 
-I’ve worked in both **Big Four enterprises** (PwC, Deloitte) and dynamic startup teams (5–15 devs), often bridging front-end development with DevOps, testing, and architecture.
+I’ve worked in both **Big Four enterprises** (PwC, Deloitte, GN, Nokia ) and dynamic startup teams (5–30 devs), often bridging front-end development with DevOps, testing, and architecture.
 
 - 🌍 Based in Poland
 - 🔧 Focused on performance, DX, accessibility & clean code
@@ -12,11 +12,8 @@ I’ve worked in both **Big Four enterprises** (PwC, Deloitte) and dynamic start
 
 ### 🔀 Tech Stack
 
-#### 💻 General
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-
 #### ⚛️ Frontend
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff)
@@ -73,8 +70,8 @@ I’ve worked in both **Big Four enterprises** (PwC, Deloitte) and dynamic start
 
 ### 💼 Let's connect
 
-- LinkedIn: [linkedin.com/in/damian](https://www.linkedin.com) <!-- replace link -->
-- GitHub: [github.com/yourname](https://github.com/yourname)
+- LinkedIn: [linkedin.com/in/damian](https://www.linkedin.com/in/damian-s-a421281a5/)
+- - GitHub: [github.com/junidevs](https://github.com/junidevs)
 - Portfolio: Coming soon...
 
 Thanks for stopping by — and feel free to reach out if you're working on something exciting! ✨
